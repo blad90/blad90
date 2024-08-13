@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @blad90
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently developing projects using Spring Boot
-- 💞️ I’m looking to collaborate on open source projects
+- 👋 Hi, I'm @blad90
+- 👀 I am a Software Engineer
+- 🌱 Currently developing projects using Spring Boot and Angular
+- 💞️ I'm looking to collaborate on open source projects
 - 📫 How to reach me: @BLAD90 on Twitter
 
 <!---
