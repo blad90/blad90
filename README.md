@@ -1,10 +1,9 @@
-- 👋 Hi, I'm @blad90
-- 👀 I am a Software Engineer
-- 🌱 Currently developing projects using Spring Boot and Angular
-- 💞️ I'm looking to collaborate on open source projects
-- 📫 How to reach me: @BLAD90 on Twitter
+- Hi, I'm @blad90
+- I am a Software Engineer
+- Currently developing projects using Spring Boot and Next.js/React
+- I'm looking to collaborate on open source projects
+- How to reach me: @BLAD90 on X
 
-<!---
-blad90/blad90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Core Technologies
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blad90&layout=compact&langs_count=6&hide=html,css,scss&theme=default)
